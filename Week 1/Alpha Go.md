@@ -19,3 +19,27 @@ Since his defeat by Deep Blue, Garry Kasparov has championed "Advanced Chess". W
 - [ ] New chess rules that are too difficult for computers to win at
 - [ ] New chess rules that are so difficult only computers can play it
 - [ ] Several humans working together to beat a computer at standard chess
+
+#### Question 3:  
+Why is the game Go considered much harder than chess for computers?
+
+- [ ] The rules are much more complex
+- [ ] There are many more types of piece
+- [ ] Go is a game of chance
+- [x] The number of possible variations of a Go game is much larger
+
+#### Question 4:  
+What AI method does Alpha Go use? 
+
+- [x] Neural networks
+- [ ] Expert Systems
+- [ ] Brute force calculation
+- [ ] Logic rules
+
+#### Question 5:  
+Why was Alpha Go able to play Go so well?
+
+- [ ] It used the same methods as Deep Blue, but was able to play a more complex game because more computing power was available in 2016 than in 1997
+- [ ] It used rules designed by some of the best Go players in the world
+- [x] It "learned" to play from famous games and playing against itself.
+- [ ] Expert mathematicians analysed the game of Go and designed the best algorithms for playing it.
