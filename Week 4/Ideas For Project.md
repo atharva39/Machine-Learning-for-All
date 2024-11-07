@@ -1,3 +1,5 @@
+### You have to work on week 4 on your own. Below are some of the ideas to get you started. All the best! 👍
+
 1. Spam Email Classifier
 2. House Price Prediction
 3. Sentiment Analysis on Tweets or Reviews
